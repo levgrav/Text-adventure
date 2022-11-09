@@ -1,0 +1,2 @@
+Levi/1/1/helmet,apple,/None/head:None,chest:None,boots:None,primary:sword,secondary:None,/stats_level: 4stats_xp: 489stats_max_hp: 100stats_hp: 52stats_hunger: 86stats_max_cap: 12
+3:0/0:0/6:12/6:12/6:12/3:3/2:9/3:9/5:9/5:9/5:9/6:13/
